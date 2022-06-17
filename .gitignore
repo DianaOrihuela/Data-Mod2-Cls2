@@ -78,3 +78,4 @@ $RECICLAJE.BIN/
 # Fin de https://www.toptal.com/developers/gitignore/api/macos,windows,venv
 venv/
 ./sesion-2/venv
+./sesion-3/venv
